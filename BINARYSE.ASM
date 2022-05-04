@@ -1,3 +1,5 @@
+;Assembly language program to perform Binary search
+
 DATA SEGMENT
 ARR DB 06H,14H,25H,3AH,76H,89H,91H
 LEN DB $-ARR
