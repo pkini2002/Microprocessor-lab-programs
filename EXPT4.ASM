@@ -1,3 +1,5 @@
+;Write an ALP to reverse a given string and check whether it is a palindrome or not
+
 DATA SEGMENT
 STR1 DB 20 DUP(?)
 STR2 DB 20 DUP(?)
