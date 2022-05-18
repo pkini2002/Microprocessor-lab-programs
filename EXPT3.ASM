@@ -1,3 +1,5 @@
+;Write an ALP to read an alphanumeric character and display its equivalent ASCII code at the center of the screen
+
 CLRSCR MACRO
    MOV AH,00H
    MOV AL,02H
