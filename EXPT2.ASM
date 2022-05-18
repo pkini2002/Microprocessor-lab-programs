@@ -1,3 +1,13 @@
+;Write ALP macros: 
+;To read a character from the keyboard in the module (1) (different file).
+;To display a character in module (2) (different file).
+;Use the above two modules to read a string of characters from the keyboard 
+;terminated by the carriage return and print the string on the display in the next line.
+
+
+
+
+
 INCLUDE F1.TXT
 INCLUDE F2.TXT
 
