@@ -1,3 +1,6 @@
+;Write an ALP to read your name from the keyboard and display it at a specified location on the screen in front of the message “What is your name?” You must 
+;clear the entire screen before display.
+
 CLRSCR MACRO
   MOV AH,00H
   MOV AL,02H
